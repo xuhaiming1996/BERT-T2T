@@ -1,12 +1,12 @@
 # 介绍
 NLP中，对于生成问题如NMT，QA, Paraphrase 任务来说通常会存在生成多样性不足的问题，
 通常我们会采用beamSearch来增加多样性。但是beamSeach 生成的句子还是有很大的相似度，无法满足项目落地需求。
-我采用了这篇[A Deep Generative Framework for Paraphrase Generation](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F1709.05074.pdf)
+我采用了这篇[A Deep Generative Framework for Paraphrase Generation](https://arxiv.org/abs/1709.05074)
 的基于CVAE的结构思想构造了一个模型，试图解决生成任务的多样性。
 
 
 ## 模型结构图
-提示：请先看这篇论文[A Deep Generative Framework for Paraphrase Generation](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F1709.05074.pdf)
+提示：请先看这篇论文[A Deep Generative Framework for Paraphrase Generation](https://arxiv.org/abs/1709.05074)
 的思想和结构，再看我下面的这个模型结构图
 
 ## 文件说明
