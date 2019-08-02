@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5ecb353-a274-4875-93a4-3f46aec5971c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/PAGE/111" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/PAGE/111" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/bert/111" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,12 +44,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="174">
-                <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <first_editor relative-caret-position="29">
+                <caret line="3" column="94" selection-start-line="3" selection-start-column="94" selection-end-line="3" selection-end-column="94" />
               </first_editor>
               <second_editor />
             </state>
@@ -68,7 +66,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/PAGE/111">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -210,10 +208,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-3" />
-    <option name="y" value="-1088" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -445,8 +443,16 @@
       <workItem from="1564361079655" duration="350000" />
       <workItem from="1564361546856" duration="1352000" />
       <workItem from="1564389643252" duration="633000" />
-      <workItem from="1564712715475" duration="2268000" />
+      <workItem from="1564712715475" duration="2802000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1564715273935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564715273935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -455,7 +461,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190301000" />
+    <option name="totallyTimeSpent" value="190835000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -468,6 +474,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="-1088" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49934125" visible="true" weight="0.1611349" />
       <window_info id="Favorites" order="1" sideWeight="0.50065875" side_tool="true" weight="0.1964668" />
@@ -523,7 +530,8 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -783,16 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="174">
-            <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/results/bert/111">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -801,6 +799,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/PAGE/111">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="29">
+            <caret line="3" column="94" selection-start-line="3" selection-start-column="94" selection-end-line="3" selection-end-column="94" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
