@@ -8,6 +8,7 @@ NLP中，对于生成问题如NMT，QA, Paraphrase 任务来说通常会存在�
 ## 模型结构图
 提示：请先看这篇论文[A Deep Generative Framework for Paraphrase Generation](https://arxiv.org/abs/1709.05074)
 的思想和结构，再看我下面的这个模型结构图
+![image](https://github.com/xuhaiming1996/BERT-T2T/blob/master/model.png)
 
 ## 文件说明
 ### /data/PAGE  训练语料
