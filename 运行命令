@@ -1,0 +1,15 @@
+
+
+
+
+python train_TPAGE.py   \
+     --train=data/PAGE/train.txt \
+     --eval=data/PAGE/eval.txt \
+     --init_checkpoint_bert=results/bert/bert_model.ckpt \
+     --batch_size=32 \
+     --eval_batch_size=32 \
+     --num_epochs_PAGE=10   \
+     --maxlen_vae_Encoder=80 \
+     --maxlen_vae_Decoder_en=40\
+     --maxlen_vae_Decoder_de=40\
+

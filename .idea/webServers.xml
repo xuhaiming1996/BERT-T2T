@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8de48e49-0463-45b4-85e6-c18052adb455" name="bert-transformer-vae" url="http://172.17.84.211">
+        <fileTransfer host="172.17.84.211" port="8071" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="8071" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0e316794-2f8f-4c96-879f-ad8ddfe214b0" name="bert-transformer-transformer" url="http://172.17.84.211">
+        <fileTransfer host="172.17.84.211" port="8071" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="8071" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
